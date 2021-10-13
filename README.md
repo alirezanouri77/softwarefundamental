@@ -1,1 +1,3 @@
 # softwarefundamental
+
+welcome to fundementals 
